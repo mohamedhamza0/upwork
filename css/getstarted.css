@@ -1,0 +1,121 @@
+.imgimg{
+	width:10%;
+}
+
+
+
+
+#onegetstrt{
+background: white;
+  width: 45%;
+  height: 480.4px;
+margin: 0 auto;
+  margin-top: 29px;
+  border: 1px solid gray;
+  border-radius: 20px;
+
+}
+.hgetstrt{
+font-family: Helvetica;
+margin-bottom: 0px;
+margin-top: 49.07px;
+padding-left: 130px;
+font-size: 32px;
+font-weight: inherit;
+}
+#dvgetstrt{
+	
+}
+.onartgetstrt{
+width: 223px;
+height: 146px;
+color: black;
+background: white;
+border: 1px solid gray;
+border-radius: 10px;
+display:inline-block;
+vertical-align:top;
+margin-top: 62px;
+margin-left: 110px;
+}
+.onartgetstrt:hover{
+	border:2px solid green;
+}
+.imgartgetstrt{
+width: 54px;
+margin-top: 13px;
+padding-left: 7px;
+display:inline-block;
+vertical-align:top;
+}
+.hartdvgetstrt{
+	display:inline-block;
+vertical-align:top;
+margin-top: -19px;
+font-size: 15px;
+color:gray;
+padding-left: 130px;
+padding-top: 28px;
+}
+.hgeetstrt{
+	  font-size: 23px;
+  padding-left: 11px;
+  font-family: Helvetica;
+  font-weight: inherit;
+}
+.twoartgetstrt{
+	width: 223px;
+height: 146px;
+background: white;
+border: 1px solid gray;
+border-radius: 10px;
+display:inline-block;
+vertical-align:top;
+	margin-top: 62px;
+margin-left: 24px;
+}
+.twoartgetstrt:hover{
+	border:2px solid green;
+}
+
+.imgtwoartdv{
+	width: 54px;
+margin-top: 13px;
+padding-left: 7px;
+display:inline-block;
+vertical-align:top;
+}
+.hdrtdvvgetstrt{
+		display:inline-block;
+vertical-align:top;
+margin-top: -19px;
+font-size: 15px;
+color:gray;
+padding-left: 130px;
+padding-top: 28px;
+	
+}
+.hgetartdvstrt{
+	width:179px;
+	 font-size: 23px;
+  padding-left: 11px;
+  font-family: Helvetica;
+  font-weight: inherit;
+}
+.putgetstrt{
+	width: 284px;
+height: 36px;
+border: 1px solid gray;
+border-radius: 15px;
+text-align: center;
+margin-left: 194px;
+margin-top: 42px;
+background: #e4ebe4;
+}
+.hgeeetstrt{
+	 font-size: 12px;
+  font-family: Helvetica;
+margin-top: 30px;
+  color: #6e7f6e;
+  margin-left: 241px;
+}
